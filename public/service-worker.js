@@ -10,8 +10,6 @@ const FILES_TO_CACHE= [
     "/favicon.ico",
     "/js/idb.js",
     "/js/index.js",
-    "/routes/api.js",
-    "/models/transaction.js",
     "/css/styles.css",
     "/manifest.json",
     "/icons/icon-96x96.png",
